@@ -10,7 +10,7 @@ RestAPI' data using Javascript is an e-commerce site. Access to the site may be 
 :arrow_right: Bootstrap </br>
 <br/>
 
- ## 📸 Application Images
+ ## Application Images
  <p>
 <a href="https://github.com/alkanrengin/E-Commerce-Site/blob/main/proje-images/e1.PNG" target="_blank">
 <img src="https://github.com/alkanrengin/E-Commerce-Site/blob/main/proje-images/e1.PNG" width="300" style="max-width:200%;"></a>
